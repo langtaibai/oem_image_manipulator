@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ISO Manipulator
+Comment=GUI tool for ISO modification
+Exec="/home/dell/PycharmProjects/firstproject/start-iso-tool.sh"
+Icon=/home/dell/PycharmProjects/firstproject/iso-icon.svg
+Terminal=false
+Type=Application
+Categories=Utility;
